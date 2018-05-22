@@ -16,7 +16,8 @@ Npm  v5.4.2
 Heroku Account - deployment server
 Mlab Account - Mongo online DB
 Stripe Account - Billing
-Google Auth API
+SendGrid Account - Mail services
+Google Account - Google Auth API
 ```
 
 ### Installing
