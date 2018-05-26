@@ -18,6 +18,7 @@ Mlab Account - Mongo online DB
 Stripe Account - Billing
 SendGrid Account - Mail services
 Google Account - Google Auth API
+LocalTunnel
 ```
 
 ### Installing
